@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor]()
-- Live Site URL: [Github pages]()
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/fylo-data-storage-component-using-flexbox-43hgOv7fEB)
+- Live Site URL: [Github pages](https://bennatbjoern.github.io/fylo-data-storage-component/)
 
 ## My process
 
